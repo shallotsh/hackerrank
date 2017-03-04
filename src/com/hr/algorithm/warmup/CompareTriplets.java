@@ -2,8 +2,12 @@ package com.hr.algorithm.warmup;
 
 import java.util.Scanner;
 
+/**
+* @author: Eric, shallotsh@gmail.com
+* @date: 2017/3/2 上午11:07
+*/
 public class CompareTriplets {
-
+    
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int a0 = in.nextInt();
