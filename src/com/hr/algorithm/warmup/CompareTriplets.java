@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
 * @author: Eric, shallotsh@gmail.com
-* @date: 2017/3/2 上午11:07
+* @date: 2017/3/2 下午11:39
 */
 public class CompareTriplets {
     

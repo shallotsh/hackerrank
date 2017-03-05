@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
 * @author: Eric, shallotsh@gmail.com
-* @date: 2017/3/4 上午11:07
+* @date: 2017/3/4 下午12:02
 */
 public class VeryBigSum {
     public static void main(String[] args) {
